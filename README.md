@@ -1,2 +1,0 @@
-# autoupdate
-Automatiuscher Updater
